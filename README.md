@@ -1,4 +1,4 @@
 # 𝙡𝙖𝙯𝙪𝙧𝙞𝙩
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazuriit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazurit&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazuriit&size_weight=0.5&count_weight=0.5)

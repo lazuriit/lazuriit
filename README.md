@@ -9,3 +9,4 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
